@@ -1,6 +1,6 @@
 ---
 title: "Siddhartha by Hermann Hesse" 
-date: 2025-05-30
+date: 2025-05-29
 categories: [book, review]
 tags: [book, review]
 author: elvin

@@ -5,7 +5,7 @@ categories: [book, review]
 ---
 
 
-![The Price](/assets/lib/the_prince.jpg)
+![The Price](/assets/images/the_prince.jpg)
 This book was not what I expected. People often say it’s a dangerous or “bad” book because it supposedly inspired controversial figures such as:
  1. Napoleon Bonaparte
  2. Otto von Bismarck – the man who unified Germany

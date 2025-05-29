@@ -3,6 +3,7 @@ title: "The Prince by Niccolo Machiavelli"
 date: 2025-05-29
 categories: [book, review]
 tags: [book, review]
+author: elvin
 ---
 
 

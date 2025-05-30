@@ -18,7 +18,7 @@ But to me, this only shows how practical and brutally honest Machiavelli’s adv
 
 Instead, reading The Prince felt like opening a third eye. It gave me a new lens to understand how history tends to repeat itself through different leadership styles, and how leaders lose power and respect. I particularly appreciated how Machiavelli used real leaders from his time as examples. At first, I found it difficult to grasp some of the concepts, but eventually, everything began to fall into place.
 
-The book covers a wide range of topics: how power is gained, how it’s maintained through military strength or political strategy, and—importantly—the flaws and dangers in each method. It also discusses how rulers can consolidate their power more effectively once they have it.
+The book covers a wide range of topics: how power is gained, how it’s maintained through military strength or political strategy, and the flaws and dangers in each method. It also discusses how rulers can consolidate their power more effectively once they have it.
 
 One of the most widely misunderstood quotes about Machiavelli is:
 >   “It’s better to be feared than loved.”

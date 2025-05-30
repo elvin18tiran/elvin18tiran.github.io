@@ -25,7 +25,7 @@ One of the most widely misunderstood quotes about Machiavelli is:
 This is often taken out of context. The full quote is actually:
 >   “It is much safer to be feared than loved, when, of the two, either must be dispensed with. But he ought to be careful not to make himself hated.”
 
-In short: Yes, fear is a useful —but only if your people doesn’t start to hate you. 
+In short: Fear is only useful only if your people doesn’t start to hate you. 
 This is a recurring theme in the book:
 >    “He who becomes hated is at risk of being overthrown, even if he has the strongest army.”
 

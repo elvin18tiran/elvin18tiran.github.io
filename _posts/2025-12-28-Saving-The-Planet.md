@@ -9,8 +9,7 @@ author: elvin
 ![saving](/assets/images/saving.jpg)
 
 
-test something 
-I first came across Saving the Planet after it was recommended by Malaysia’s former Minister of Natural Resources and Environment, Nik Nazmi Nik Ahmad. He urged not only the public but also leaders around the world to read it. I was skeptical at first. Coming from a background in law, I wondered what authority he really had on environmental issues. On top of that, the book cost RM80, which felt steep compared to the already overpriced titles at Popular Bookstore. For months, I hesitated.
+test something I first came across Saving the Planet after it was recommended by Malaysia’s former Minister of Natural Resources and Environment, Nik Nazmi Nik Ahmad. He urged not only the public but also leaders around the world to read it. I was skeptical at first. Coming from a background in law, I wondered what authority he really had on environmental issues. On top of that, the book cost RM80, which felt steep compared to the already overpriced titles at Popular Bookstore. For months, I hesitated.
 
 Eventually, I decided to take a leap of faith and bought the book. It turned out to be the right decision. From the very first chapters, the book completely exceeded my expectations. It is remarkably comprehensive and offers rare insight into Malaysia’s role in the global environmental movement. Many of the policies discussed are ones most Malaysians are either unaware of or do not even realize exist. Reading it feels like walking alongside the author during his time as a minister, gaining an inside view of the challenges faced, the constraints within government, and the difficult trade-offs involved in environmental decision-making.
 
